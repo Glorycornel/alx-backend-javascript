@@ -5,3 +5,4 @@ const getSumOfHoods = (
   ) => initialNumber + expansion1989 + expansion2019;
   
   export default getSumOfHoods;
+  
