@@ -1,8 +1,8 @@
 # ALX backend specialisation program
 
-# Requirements
+## Requirements
 
-# General
+## General
 * All your files will be executed on Ubuntu 18.04 LTS using NodeJS 12.11.x
 * Allowed editors: vi, vim, emacs, Visual Studio Code
 * All your files should end with a new line
@@ -12,6 +12,6 @@
 * Your code will be analyzed using the linter ESLint along with specific rules that we’ll provide
 * All of your functions must be exported
 
-# directories
+## directories
 * 0x00-ES6_basic
 * 0x01-ES6_promise
